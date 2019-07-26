@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Genom Kernel by rama982 @ telegram
+kernel.string=ThunderStorm Kernel by RevanthTolety
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=vince
-device.name2=
-device.name3=
+device.name1=sakura
+device.name2=sakura_india	
+device.name3=Redmi 6 pro
 device.name4=
 device.name5=
 '; } # end properties
@@ -44,4 +44,3 @@ dump_boot;
 write_boot;
 
 ## end install
-

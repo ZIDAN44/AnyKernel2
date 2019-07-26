@@ -1,8 +1,8 @@
-NAME ?= Genom
+NAME ?= ThunderStorm
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := Kernel-AOSP-vince
+CODE := Kernel-Sakura
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
